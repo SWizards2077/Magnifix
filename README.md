@@ -1,8 +1,5 @@
 # Magnifix
 The Magnifix project is a decentralized platform for providing services in the gig economy. The gig economy refers to an economic model in which freelancers and independent specialists offer their services on demand.  The goal of Magnifix is to create a space where freelancers and employers can interact and collaborate without intermediaries.
-# Magnifix
-
-Magnifix is a decentralized platform for providing services in the gig economy. The gig economy refers to an economic model where freelancers and independent specialists offer their services on-demand.
 
 ## Table of Contents
 - [Introduction](#introduction)
