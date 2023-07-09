@@ -61,4 +61,4 @@ Magnifix is released under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact the Magnifix team at [email protected]
+If you have any questions or feedback, feel free to contact the Magnifix team at info@magnifix.org
